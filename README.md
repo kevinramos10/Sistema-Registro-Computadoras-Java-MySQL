@@ -41,13 +41,10 @@ El sistema utiliza MySQL para el almacenamiento de datos.
 
 ### Pantalla Principal
 
-![Home](img/home.png)
+![Home](img/db.png)
 
 ### Registro de Computadoras
 
 ![Registro](img/registro.png)
 
-### Listado de Computadoras
-
-![Lista](img/lista.png)
 
