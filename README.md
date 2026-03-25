@@ -39,7 +39,7 @@ El sistema utiliza MySQL para el almacenamiento de datos.
 
 ## Capturas del Sistema
 
-### Pantalla Principal
+### Pantalla MySql
 
 ![Home](img/db.png)
 
